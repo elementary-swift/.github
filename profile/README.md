@@ -1,8 +1,10 @@
-<p align="center">
-  <a href="https://elementary.codes">
-    <img src="https://elementary-swift.github.io/assets/elementary-logo.svg" width="125px" alt="Elementary Logo">
-  </a>
-</p>
+## Welcome to the Elementary!
+
+**Elementary is an open-source ecosystem for building web applications in Swift.**
+
+Explore the projects below, or head over to ⁠[elementary.codes](https://elementary.codes) for documentation, examples, and more!
+
+---
 
 <p align="center">
   <i>Thank you to everyone supporting this open‑source project financially.
