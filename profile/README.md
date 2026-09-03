@@ -1,4 +1,4 @@
-## Welcome to the Elementary!
+## Welcome to the Elementary project!
 
 **Elementary is an open-source ecosystem for building web applications in Swift.**
 
